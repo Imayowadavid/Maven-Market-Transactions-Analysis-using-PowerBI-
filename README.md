@@ -1,2 +1,2 @@
-#Maven Market Transactions Analysis 
+#Kindly check the Project instructions file for more details.
 
