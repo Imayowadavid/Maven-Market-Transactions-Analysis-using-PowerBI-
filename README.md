@@ -77,7 +77,7 @@ Relationship were created as thus;
 - From the L.H.S ,the matrix visual was used to display the top 30 transactions with respect to product brand alongside the dimension fields that were calculated with Measures. 
 - Multi-card visuals was used to display the top 3 sales by district so as to generate the top 3 total revenue.
 - Area-chart displays an impressive turn out for the Quantity of goods sold in 1998 compared to 1997
-- The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
+- The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin compared to the bottom 2 categories.
 ***
 **Recommendation**
 ***
