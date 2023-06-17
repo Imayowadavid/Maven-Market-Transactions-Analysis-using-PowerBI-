@@ -30,7 +30,7 @@ Relationship were created as thus;
 - Customers, Products and Stores using valid primary/foreign keys to Transaction_Data Table to form a 1 to many relationship.
 - Calendar to Transaction_Data Table to form a one(1) to many relationship using both date fields with an inactive "stock_date" relationship
 - Products, Calendar and Stores using valid primary/foreign keys to Return_Data Table  to form a 1 to many relationship. -- Region to Stores  Table to form as a "snowflake" schema.
-
+***
 **Analysis and Visualization**
 ***
 **Measures created using DAX**
@@ -79,9 +79,9 @@ Relationship were created as thus;
 - The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
 ***
 **Recommendation**
-
-     - The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
-    -  More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
+***
+- The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
+- More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
 
 
 
