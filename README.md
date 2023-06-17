@@ -53,16 +53,17 @@ Regions to Stores  Table to form as a "snowflake" schema
 
 **Calculated Columns using DAX**
 :---------------------------:
-![](endofmonth-CC)
-![](weekend-CC)
-![](currentage-CC)
-![](houseaddress-CC)
-![](priority-CC)
-![](pricetier-CC)
-![](shortcountry-CC)
-![](pricetier-CC)
-![](Yearsince-remodel-CC)
-![](weekend-CC)
+![](endofmonth-CC.png)
+![](weekend-CC.png)
+![](currentage-CC.png)
+![](houseaddress-CC.png)
+![](priority-CC.png)
+![](pricetier-CC.png)
+![](shortcountry-CC.png)
+![](pricetier-CC.png)
+![](Yearsince-remodel-CC.png)
+![](weekend-CC.png)
+
 Analyze based on the visuals contents used/created
 
 
