@@ -62,7 +62,7 @@ Regions to Stores  Table to form as a "snowflake" schema
 ![](shortcountry-CC.png)
 ![](pricetier-CC.png)
 ![](Yearsince-remodel-CC.png)
-![](weekend-CC.png)
+
 
 Analyze based on the visuals contents used/created
 
