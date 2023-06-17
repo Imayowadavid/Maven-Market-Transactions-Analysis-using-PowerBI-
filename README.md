@@ -3,8 +3,11 @@
 ![](maven.jpg)
 
 **Introduction**
+***
     To carry out the task on the introductory section on the Project Instructions file i uploaded and recommend a data driven decision that is rational enough to improve productivity.
+    ***
 **Data sourcing**
+***
 
       - The datasets (year 1997-1998 transactions) was gotten from Maven market ;
       - Maven Market is a kosher grocery store, bakery, butcher shop, caterer, deli, grocery delivery service, produce market, supermarket and sushi takeaway located physically in 1000 Reisterstown Pikesville, Maryland in USA and known as Digi Maven Solution in Lagos ,Nigeria as a Marketing agency.It is located physically at 175,Herbert Macaulay Way,Yaba ,Lagos.
@@ -67,6 +70,7 @@ Relationship were created as thus;
 **VISUALIZATION**
 
 ![](mavendashboard.png)
+***
 
        This section comprises the summary of the key metrics used as visuals for data visualization ;
 -From the L.H.S ,the matrix visual was used to display the top 30 transactions with respect to product brand alongside the dimension fields that were calculated with Measures. 
@@ -75,6 +79,7 @@ Relationship were created as thus;
 -The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
 ***
 **Recommendation**
+***
 
       The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
       More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
