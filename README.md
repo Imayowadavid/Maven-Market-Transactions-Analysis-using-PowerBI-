@@ -63,9 +63,10 @@ Regions to Stores  Table to form as a "snowflake" schema
 ![](pricetier-CC.png)
 ![](Yearsince-remodel-CC.png)
 
+**VISUALIZATION**
 
-Analyze based on the visuals contents used/created
-
+![](mavendashboard.png)
+This section comprises the summary on the visuals used for visualization ;
 
 
 
