@@ -9,7 +9,7 @@
 - It located in just two countries and has a Google rating of 4.6 out of 670 reviews. The store is open from 7am to 8pm on Sundays, 7am to 9pm on Mondays through Wednesdays, 7am to 9pm on Tuesdays, 7am to 10pm on Wednesdays, 7am to 11pm on Thursdays and 7am to 4:30pm on Fridays.
 
 **Aim** -
-To carry out the task on the introductory section of the file  named Project Instructions i uploaded and recommend a data driven decision that is rational enough to improve productivity.
+To carry out the task on the introductory section of the file (  Project Instructions i uploaded) and recommend a data driven decision that is rational enough to improve productivity.
 ***
 **Data sourcing**
 ***
