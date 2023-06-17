@@ -3,7 +3,7 @@
 ![](maven.jpg)
 ***
 **Introduction**
-***
+
     To carry out the task on the introductory section on the Project Instructions file i uploaded and recommend a data driven decision that is rational enough to improve productivity.
 ***
 **Data sourcing**
@@ -14,8 +14,8 @@
 - Maven Market is a great option for those looking for a convenient and reliable way to shop for kosher groceries. The store offers a wide variety of products including fresh produce, meats, dairy products, baked goods and more.
 - If you are looking for a kosher grocery store in the Pikesville area, Maven Market is a great option. The store is well-stocked, convenient and offers a variety of services.
 - It located in two countries has a Google rating of 4.6 out of 670 reviews. The store is open from 7am to 8pm on Sundays, 7am to 9pm on Mondays through Wednesdays, 7am to 9pm on Tuesdays, 7am to 10pm on Wednesdays, 7am to 11pm on Thursdays and 7am to 4:30pm on Fridays.
-      ***
- **Skills Demonstrated**
+***
+**Skills Demonstrated**
  ***
 - Data transformation using power query editor to name columns accordingly.
 - Data modeling
@@ -78,7 +78,7 @@ Relationship were created as thus;
 - The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
 ***
 **Recommendation**
-***
+
      - The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
     -  More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
 
