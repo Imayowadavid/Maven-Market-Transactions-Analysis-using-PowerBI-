@@ -3,13 +3,13 @@
 ![](maven.jpg)
 ***
 **Introduction**
-- Maven Market is a kosher grocery store, bakery, butcher shop, caterer, deli, grocery delivery service, produce market, supermarket and sushi takeaway located physically in 1000 Reisterstown Pikesville, Maryland in USA and known as Digi Maven Solution in Lagos ,Nigeria as a Marketing agency.It is located physically at 175,Herbert Macaulay Way,Yaba ,Lagos.
+- Maven Market is a kosher grocery store, bakery, butcher shop, caterer, deli, grocery delivery service, produce market, supermarket and sushi takeaway located physically in 1000 Reisterstown Pikesville, Maryland in USA and known as Digi Maven Solution in Lagos ,Nigeria as a Marketing agency and located physically at 175,Herbert Macaulay Way,Yaba ,Lagos.
 - Maven Market is a great option for those looking for a convenient and reliable way to shop for kosher groceries. The store offers a wide variety of products including fresh produce, meats, dairy products, baked goods and more.
 - If you are looking for a kosher grocery store in the Pikesville area, Maven Market is a great option. The store is well-stocked, convenient and offers a variety of services.
 - It located in two countries has a Google rating of 4.6 out of 670 reviews. The store is open from 7am to 8pm on Sundays, 7am to 9pm on Mondays through Wednesdays, 7am to 9pm on Tuesdays, 7am to 10pm on Wednesdays, 7am to 11pm on Thursdays and 7am to 4:30pm on Fridays.
 
-**Aim** 
-To carry out the task on the introductory section on the Project Instructions file i uploaded and recommend a data driven decision that is rational enough to improve productivity.
+**Aim** -
+To carry out the task on the introductory section of the file(-Project Instructions-) i uploaded and recommend a data driven decision that is rational enough to improve productivity.
 ***
 **Data sourcing**
 ***
