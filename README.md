@@ -79,9 +79,8 @@ Relationship were created as thus;
 - The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
 ***
 **Recommendation**
-
-
-      The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
+***
+     The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
       More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
 
 
