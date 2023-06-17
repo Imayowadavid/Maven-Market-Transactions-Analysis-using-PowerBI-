@@ -9,7 +9,7 @@
 - It located in two countries has a Google rating of 4.6 out of 670 reviews. The store is open from 7am to 8pm on Sundays, 7am to 9pm on Mondays through Wednesdays, 7am to 9pm on Tuesdays, 7am to 10pm on Wednesdays, 7am to 11pm on Thursdays and 7am to 4:30pm on Fridays.
 
 **Aim** -
-To carry out the task on the introductory section of the file(-Project Instructions-) i uploaded and recommend a data driven decision that is rational enough to improve productivity.
+To carry out the task on the introductory section of the file -Project Instructions- i uploaded and recommend a data driven decision that is rational enough to improve productivity.
 ***
 **Data sourcing**
 ***
@@ -27,9 +27,10 @@ To carry out the task on the introductory section of the file(-Project Instructi
 ![](datamodel.png)
 ***
 Relationship were created as thus;
-- Customers, Products and Stores using valid primary/foreign keys to Transaction_Data Table to form a 1 to many relationship.
+- Customers, Products and Stores using valid primary/foreign keys to Transaction_Data Table to form a one(1) to many relationship.
 - Calendar to Transaction_Data Table to form a one(1) to many relationship using both date fields with an inactive "stock_date" relationship
-- Products, Calendar and Stores using valid primary/foreign keys to Return_Data Table  to form a 1 to many relationship. -- Region to Stores  Table to form as a "snowflake" schema.
+- Products, Calendar and Stores using valid primary/foreign keys to Return_Data Table  to form a one(1) to many relationship.
+- Region to Stores  Table to form as a "snowflake" schema.
 ***
 **Analysis and Visualization**
 ***
