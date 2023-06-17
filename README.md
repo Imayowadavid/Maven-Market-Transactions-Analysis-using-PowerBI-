@@ -20,11 +20,11 @@ The datasets (year 1997-1998 transactions) was gotten from Maven market ;
 **Data Modeling**
 ***
 ![](datamodel.png)
+***
 Relationship were created as thus;
-Customers, Products and Stores using valid primary/foreign keys Transaction_Data Table to form a 1 to many relationship.
-Calendar to Transaction_Data Table to form a one(1) to many relationship using both date fields with an inactive "stock_date" relationship
-Products, Calendar and Stores using valid primary/foreign keys to Return_Data Table  to form a 1 to many relationship.
-Regions to Stores  Table to form as a "snowflake" schema
+-Customers, Products and Stores using valid primary/foreign keys to Transaction_Data Table to form a 1 to many relationship.
+-Calendar to Transaction_Data Table to form a one(1) to many relationship using both date fields with an inactive "stock_date" relationship
+-Products, Calendar and Stores using valid primary/foreign keys to Return_Data Table  to form a 1 to many relationship. ---Region to Stores  Table to form as a "snowflake" schema.
 
 **Analysis and Visualization**
 ***
@@ -66,10 +66,18 @@ Regions to Stores  Table to form as a "snowflake" schema
 **VISUALIZATION**
 
 ![](mavendashboard.png)
-This section comprises the summary on the visuals used for visualization ;
+***
 
-
-
+       This section comprises the summary of the key metrics used as visuals for data visualization ;
+-From the L.H.S ,the matrix visual was used to display the top 30 transactions with respect to product brand alongside the dimension fields that were calculated with Measures. 
+-Multi-card visuals was used to display the top 3 sales by district so as to generate the top 3 total revenue.
+-Area-chart displays an impressive turn out for the Quantity of goods sold in 1998 compared to 1997
+-The top 3 dominant categories (Partially High school,High school and Bachelors degree holders) of consumers for the top 30 product mostly consumed shows a wide margin .
+***
+**Recommendation**
+***
+      The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
+      More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
 
 
 
