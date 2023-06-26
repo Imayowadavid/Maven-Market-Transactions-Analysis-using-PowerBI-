@@ -82,7 +82,19 @@ Relationship were created as thus;
 **Recommendation**
 ***
 - The targeted consumers are Partially High school,High school and Bachelors degree holders which implies that the exact brands and  related products that are mostly consumed should be made available in large quantities in district with impressive consumption .
-- More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption. 
+- More advertisement and discount sales/promo should be done in the bottom 10 cities with low consumption.
+- By using a Social media content creator to leverage on popular social media platforms, more advertisement should be done in every region in the country to create more awareness about the goods / services rendered in the Superstore in order to keep improving the sales for products with poor consumptions.
+
+- Customer service(virtual and physical ) agents should be made available to help customers provide answers to enquiries.
+
+- Real time Digital tools for Product demonstrations like a pre- recorded video accessible on screen and on repetiton should be made available on-site to help customers learn more about the product and how to use them.
+
+- Discounted Sales should be done occasionally for products with the least consumptions in order to encourage the customers. 
+
+- More Delivery equipment should be made available as well as occasionally discounted rate delivery .
+
+- Gift Wrapping; This is a great way to add a touch of luxury to your store . You can offer gift wrapping services for free or at a small fee.
+          Conclusively, the recommendations provided in this report offer a roadmap for improving sales and profit performance and enhancing overall financial success.
 
 
 
